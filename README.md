@@ -60,8 +60,8 @@ An AI-powered system to detect and count people in live video streams.
 ## 🔗 Connect with Me
 
 [![Blog](https://img.shields.io/badge/Blog-izaidblog.vercel.app-0A0A0A?style=flat-square&logo=vercel)](https://izaidblog.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zaid-blue?style=flat-square&logo=linkedin)](https://in.linkedin.com/in/zaid-madari-87635726a)
-[![Email](https://img.shields.io/badge/Email-zaid@example.com-red?style=flat-square&logo=gmail)](mailto:izaid.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaid-blue?style=flat-square&logo=linkedin)](https://in.linkedin.com/in/zaid-madari-87635726a)
+[![Email](https://img.shields.io/badge/Email-izaid.dev@gmail.com-red?style=flat-square&logo=gmail)](mailto:izaid.dev@gmail.com)
 
 ---
 
