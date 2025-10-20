@@ -39,9 +39,12 @@ An AI-powered system to detect and count people in live video streams.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaidGIT&theme=react-dark" alt="GitHub Contribution Graph" /> <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=ZaidGIT&show_icons=true&count_private=true&theme=react-dark&include_all_commits=true&hide=stars,issues&show_year=true" alt="Total Contributions This Year" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaidGIT&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaidGIT&show_icons=true&count_private=true&theme=react-dark&include_all_commits=true&hide=stars,issues&show_year=true" alt="Total Contributions This Year" />
+</p>
+
 
 
 ---
